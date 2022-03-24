@@ -1,3 +1,8 @@
 {
-  "java.project.sourcePaths": ["empresa", "Leonidas/teste", "Reverso"]
+  "java.project.sourcePaths": [
+    "empresa",
+    "Reverso",
+    "Leonidas/teste",
+    "src"
+  ]
 }

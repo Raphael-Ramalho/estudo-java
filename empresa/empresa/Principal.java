@@ -2,7 +2,7 @@ package empresa;
 
 import java.util.Scanner;
 
-public class Principal {
+public class Principal { 
   public static void main(String[] args){
     int num=10;
     String nome = "Mario";
