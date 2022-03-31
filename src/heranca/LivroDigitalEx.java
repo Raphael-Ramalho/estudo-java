@@ -25,4 +25,6 @@ public class LivroDigitalEx {
   public float tamanhoPorPagina(){
     return tamanhoMB/(float)paginas;
   }
+
+  
 }
